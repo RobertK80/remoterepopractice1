@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml/
+
+# files that contains test user passsword from robs local
+mysecret.txt
+
